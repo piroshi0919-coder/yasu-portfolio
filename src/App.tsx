@@ -47,7 +47,8 @@ export default function App() {
             <span className="italic text-transparent" style={{ WebkitTextStroke: '2px var(--color-matte-ink)', textShadow: '6px 6px 0px var(--color-pastel-pink)' }}>MOMENTS</span>
           </h1>
           <p className="font-sans text-lg md:text-xl max-w-xl mx-auto opacity-80 mb-10">
-            A visual diary of light, shadow, and human connection. Based in Tokyo, shooting worldwide.
+            University student based in Shiga, Japan. Capturing moments from travels and daily life.
+Available for casual shoots in the Kansai area.
           </p>
         </motion.div>
 
