@@ -79,6 +79,22 @@ export const portfolioImages: PortfolioImage[] = [
     category: 'Animal',
     aspectRatio: 'portrait',
     color: 'bg-pastel-yellow'
-  }
+  },
+  {
+    id: '10',
+    src: 'https://toxic-green-ppuivwlefc.edgeone.app/夜景1.jpg',
+    title: 'Night view',
+    category: 'landscape',
+    aspectRatio: 'portrait',
+    color: 'bg-pastel-yellow'
+  },
+  {
+    id: '11',
+    src: 'https://atomic-scarlet-l7gfgfa9zf.edgeone.app/夜景2.jpg',
+    title: 'Night view',
+    category: 'landscape',
+    aspectRatio: 'portrait',
+    color: 'bg-pastel-yellow'
+  },
   
 ];
