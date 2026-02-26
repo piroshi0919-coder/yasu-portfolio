@@ -48,7 +48,6 @@ export default function App() {
           </h1>
           <p className="font-sans text-lg md:text-xl max-w-xl mx-auto opacity-80 mb-10">
             University student based in Shiga, Japan. Capturing moments from travels and daily life.
-Available for casual shoots in near the area.
           </p>
         </motion.div>
 
