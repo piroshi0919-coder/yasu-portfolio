@@ -96,5 +96,21 @@ export const portfolioImages: PortfolioImage[] = [
     aspectRatio: 'portrait',
     color: 'bg-pastel-yellow'
   },
+  {
+    id: '12',
+    src: 'https://rapid-moccasin-kc4yce5eng.edgeone.app/野洲駅1.jpg',
+    title: 'Yasu station',
+    category: 'Artifact',
+    aspectRatio: 'landscape',
+    color: 'bg-pastel-yellow'
+  },
+  {
+    id: '13',
+    src: 'https://reluctant-cyan-0jiweju9rf.edgeone.app/南草津.jpg',
+    title: 'Minami-Kusatsu station',
+    category: 'Artifact',
+    aspectRatio: 'landscape',
+    color: 'bg-pastel-yellow'
+  },
   
 ];
